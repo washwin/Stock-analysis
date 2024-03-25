@@ -1,4 +1,4 @@
-#!/home/user/stock-analysis/.venv/bin/python
+#!/home/ashwin/Desktop/Stock-analysis/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
